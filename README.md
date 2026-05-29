@@ -60,14 +60,3 @@ SARIMA is univariate and learns only from its own history, so it is blind to inf
 ## Tech Stack
 
 Python · statsmodels · pandas · NumPy · matplotlib
-
-## Files
-
-- `retail_sales_forecasting.ipynb` — full pipeline: data prep, stationarity testing, model selection, forecasting, diagnostics
-- `requirements.txt` — dependencies
-
-## Team
-
-Group 18 — Ananya Jhamb [+ teammates]
-Johns Hopkins Carey | MS Business Analytics & AI
-Course: Forecasting Models for Business Intelligence
