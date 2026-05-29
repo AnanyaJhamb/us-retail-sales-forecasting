@@ -1,4 +1,3 @@
-# us-retail-sales-forecasting
 # U.S. Retail Sales Forecasting
 
 SARIMA time series forecasting model for U.S. food & beverage retail sales using 27 years of monthly data from the Federal Reserve Economic Data (FRED).
